@@ -7,6 +7,7 @@ public class Actividad1 {
 		System.out.println("Hola");
 		System.out.println("Adios");
 		System.out.println("Buenos dias");
+		System.out.println("Buenas noches");
 	}
 
 }
